@@ -1,0 +1,152 @@
+<style>
+body {
+margin:20%;
+overflow:scroll;
+}
+
+table {
+border-collapse:collapse;
+text-align:left;
+width:100%;
+border-color:#0f5096;
+border-style:solid;
+}
+
+th {
+background-color:#0f5096;
+color:#FFF;
+font-size:20px;
+font-weight:700;
+font-family:Arial;
+border-color:#0f5096;
+border-style:solid;
+padding:10px 20px;
+}
+
+td {
+font-size:17px;
+font-weight:400;
+font-family:Arial;
+background:#FFF;
+color:#0f5096;
+padding:10px 20px;
+}
+
+hr { 
+background-color: #0f5096; height: 1px; border: 0; }
+
+.anchor {
+text-indent:0;
+border:1px solid #337fed;
+display:inline-block;
+color:#fff;
+font-family:Arial;
+font-size:15px;
+font-weight:700;
+font-style:normal;
+height:40px;
+line-height:40px;
+width:300px;
+text-decoration:none;
+text-align:center;
+}
+
+.classname {
+background-color:#0f5096;
+-webkit-border-top-left-radius:0;
+-moz-border-radius-topleft:0;
+border-top-left-radius:0;
+-webkit-border-top-right-radius:0;
+-moz-border-radius-topright:0;
+border-top-right-radius:0;
+-webkit-border-bottom-right-radius:0;
+-moz-border-radius-bottomright:0;
+border-bottom-right-radius:0;
+-webkit-border-bottom-left-radius:0;
+-moz-border-radius-bottomleft:0;
+border-bottom-left-radius:0;
+text-indent:0;
+border:1px solid #337fed;
+display:inline-block;
+color:#fff;
+font-family:Arial;
+font-size:15px;
+font-weight:700;
+font-style:normal;
+height:40px;
+line-height:40px;
+width:300px;
+text-decoration:none;
+text-align:center;
+}
+
+.classname:hover {
+background-color:#1e62d0;
+cursor:pointer;
+}
+
+.form {
+font-family:Arial;
+font-size:20px;
+font-weight:700;
+font-style:normal;
+height:40px;
+line-height:40px;
+width:300px;
+color:#0f5096;
+}
+
+.input {
+width:400px;
+height:25px;
+}
+
+.tax {
+background-color:transparent;
+-webkit-border-top-left-radius:40px;
+-moz-border-radius-topleft:40px;
+border-top-left-radius:40px;
+-webkit-border-top-right-radius:40px;
+-moz-border-radius-topright:40px;
+border-top-right-radius:40px;
+-webkit-border-bottom-right-radius:40px;
+-moz-border-radius-bottomright:40px;
+border-bottom-right-radius:40px;
+-webkit-border-bottom-left-radius:40px;
+-moz-border-radius-bottomleft:40px;
+border-bottom-left-radius:40px;
+text-indent:-1px;
+border:2px solid #0f5096;
+display:inline-block;
+color:#0f5096;
+font-family:Arial;
+font-size:15px;
+font-weight:700;
+font-style:normal;
+height:34px;
+line-height:34px;
+width:110px;
+text-decoration:none;
+text-align:center;
+}
+
+.classname:active,.tax:active {
+position:relative;
+top:1px;
+}
+
+.footer
+{
+    clear: both;
+    color: #1e62d0;
+    padding: 0;
+    bottom: 0px;
+    width: 100%;
+	font-family:Arial;
+	font-size:15px;
+	height:20px;
+	margin:5px 2px 0 2px;
+	z-index:10;
+}
+
+</style>
